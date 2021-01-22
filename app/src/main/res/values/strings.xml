@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CanvasCoordinate</string>
+    <string name="numberb">Number B</string>
+    <string name="numbera">Number A</string>
+    <string name="input_a">Input A</string>
+    <string name="input_b">Input B</string>
+    <string name="choose_line_color">choose Line Color</string>
+    <string name="choose_row_color">Choose Row Color</string>
+    <string name="check_ur_info">Check Url Info</string>
+    <string name="title_activity_color_picker_dialog">ColorPickerDialog</string>
+    <string name="choose_your_color">choose your color</string>
+    <string name="axis_color">Axis color</string>
+    <string name="draw">Draw</string>
+    <string name="liner_color">Liner color</string>
+    <string name="check_value_infor">Please input value A, B</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>

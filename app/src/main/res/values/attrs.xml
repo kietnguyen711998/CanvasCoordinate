@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CanvasView">
+        <attr name="setRowColor" format="color" />
+        <attr name="setLineColor" format="color" />
+    </declare-styleable>
+</resources>
